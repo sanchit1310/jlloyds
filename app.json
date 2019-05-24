@@ -1,0 +1,7 @@
+{
+  "name": "Company Registration in Nodejs",
+  "description": "Company Registration operations using PostgreSQL as a database, Node.js as language and jquery as javascript based MVC",
+  "repository": "",
+  "logo": "",
+  "keywords": [ "Company", "Test", "API"]
+}
